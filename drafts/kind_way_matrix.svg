@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1352" height="830" viewBox="0 0 1352 830" font-family="Helvetica, Arial, sans-serif">
+<rect width="1352" height="830" fill="#f5f8fc"/>
+<text x="20" y="38" font-size="24" font-weight="bold" fill="#1f2a6b">Kind × Way: one name for each combination</text>
+<text x="20" y="64" font-size="15" fill="#1f2a6b">Rows: what the speaker exposes (Kind). Columns: how it comes out (Way). Each cell: a name and a constructed example.</text>
+<rect x="200" y="80" width="220" height="56" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.6"/>
+<text x="310.0" y="104" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f2a6b">Volunteered</text>
+<text x="310.0" y="124" font-size="13" text-anchor="middle" fill="#4a5590">no targeted turn first</text>
+<rect x="428" y="80" width="220" height="56" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.6"/>
+<text x="538.0" y="104" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f2a6b">Answered</text>
+<text x="538.0" y="124" font-size="13" text-anchor="middle" fill="#4a5590">after a neutral question</text>
+<rect x="656" y="80" width="220" height="56" rx="8" fill="#dff2e4" stroke="#1f2a6b" stroke-width="1.6"/>
+<text x="766.0" y="104" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f2a6b">Conceded</text>
+<text x="766.0" y="124" font-size="13" text-anchor="middle" fill="#4a5590">after a challenge</text>
+<rect x="884" y="80" width="220" height="56" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.6"/>
+<text x="994.0" y="104" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f2a6b">Requested: feedback</text>
+<text x="994.0" y="124" font-size="13" text-anchor="middle" fill="#4a5590">asks for a check</text>
+<rect x="1112" y="80" width="220" height="56" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.6"/>
+<text x="1222.0" y="104" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f2a6b">Requested: help</text>
+<text x="1222.0" y="124" font-size="13" text-anchor="middle" fill="#4a5590">asks for help</text>
+<rect x="20" y="146" width="170" height="84" rx="8" fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6"/>
+<text x="32" y="182" font-size="16" font-weight="bold" fill="#1f2a6b">Error (claim)</text>
+<text x="32" y="204" font-size="13" fill="#4a5590">a claim was wrong</text>
+<rect x="200" y="146" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="212" y="172" font-size="15" font-weight="bold" fill="#1f2a6b">Retraction</text>
+<text x="212" y="196" font-size="12.5" font-style="italic" fill="#4a5590">&quot;The date I gave you</text>
+<text x="212" y="214" font-size="12.5" font-style="italic" fill="#4a5590">earlier was wrong.&quot;</text>
+<rect x="428" y="146" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="440" y="172" font-size="15" font-weight="bold" fill="#1f2a6b">Answered correction</text>
+<text x="440" y="196" font-size="12.5" font-style="italic" fill="#4a5590">&quot;No, I had that</text>
+<text x="440" y="214" font-size="12.5" font-style="italic" fill="#4a5590">date wrong.&quot;</text>
+<rect x="656" y="146" width="220" height="84" rx="8" fill="#dff2e4" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="668" y="172" font-size="15" font-weight="bold" fill="#1f2a6b">Conceded claim</text>
+<text x="668" y="196" font-size="12.5" font-style="italic" fill="#4a5590">&quot;You&#x27;re right, I had</text>
+<text x="668" y="214" font-size="12.5" font-style="italic" fill="#4a5590">that wrong.&quot;</text>
+<rect x="884" y="146" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="896" y="172" font-size="15" font-weight="bold" fill="#1f2a6b">Check after correction</text>
+<text x="896" y="196" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I fixed my figure.</text>
+<text x="896" y="214" font-size="12.5" font-style="italic" fill="#4a5590">Can you check it?&quot;</text>
+<rect x="1112" y="146" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="1124" y="172" font-size="15" font-weight="bold" fill="#1f2a6b">Help after correction</text>
+<text x="1124" y="196" font-size="12.5" font-style="italic" fill="#4a5590">&quot;My number was off.</text>
+<text x="1124" y="214" font-size="12.5" font-style="italic" fill="#4a5590">Can you help redo it?&quot;</text>
+<rect x="20" y="238" width="170" height="84" rx="8" fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6"/>
+<text x="32" y="274" font-size="16" font-weight="bold" fill="#1f2a6b">Error (work)</text>
+<text x="32" y="296" font-size="13" fill="#4a5590">work wrong or not done</text>
+<rect x="200" y="238" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="212" y="264" font-size="15" font-weight="bold" fill="#1f2a6b">Owned error</text>
+<text x="212" y="288" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I forgot to send it.&quot;</text>
+<rect x="428" y="238" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="440" y="264" font-size="15" font-weight="bold" fill="#1f2a6b">Answered error</text>
+<text x="440" y="288" font-size="12.5" font-style="italic" fill="#4a5590">&quot;No, I forgot to</text>
+<text x="440" y="306" font-size="12.5" font-style="italic" fill="#4a5590">send it.&quot;</text>
+<rect x="656" y="238" width="220" height="84" rx="8" fill="#dff2e4" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="668" y="264" font-size="15" font-weight="bold" fill="#1f2a6b">Conceded error</text>
+<text x="668" y="288" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Good catch, that</text>
+<text x="668" y="306" font-size="12.5" font-style="italic" fill="#4a5590">entry is wrong.&quot;</text>
+<rect x="884" y="238" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="896" y="264" font-size="15" font-weight="bold" fill="#1f2a6b">Check of flawed work</text>
+<text x="896" y="288" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I messed up the log.</text>
+<text x="896" y="306" font-size="12.5" font-style="italic" fill="#4a5590">Can you check it?&quot;</text>
+<rect x="1112" y="238" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="1124" y="264" font-size="15" font-weight="bold" fill="#1f2a6b">Help to fix an error</text>
+<text x="1124" y="288" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I messed it up. Can</text>
+<text x="1124" y="306" font-size="12.5" font-style="italic" fill="#4a5590">you help me fix it?&quot;</text>
+<rect x="20" y="330" width="170" height="84" rx="8" fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6"/>
+<text x="32" y="366" font-size="16" font-weight="bold" fill="#1f2a6b">Gap</text>
+<text x="32" y="388" font-size="13" fill="#4a5590">not known now</text>
+<rect x="200" y="330" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="212" y="356" font-size="15" font-weight="bold" fill="#1f2a6b">Admitted gap</text>
+<text x="212" y="380" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I don&#x27;t know the</text>
+<text x="212" y="398" font-size="12.5" font-style="italic" fill="#4a5590">fire rating.&quot;</text>
+<rect x="428" y="330" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="440" y="356" font-size="15" font-weight="bold" fill="#1f2a6b">Answered gap</text>
+<text x="440" y="380" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Not sure.&quot;</text>
+<rect x="656" y="330" width="220" height="84" rx="8" fill="#dff2e4" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="668" y="356" font-size="15" font-weight="bold" fill="#1f2a6b">Conceded gap</text>
+<text x="668" y="380" font-size="12.5" font-style="italic" fill="#4a5590">&quot;You&#x27;re right,</text>
+<text x="668" y="398" font-size="12.5" font-style="italic" fill="#4a5590">I don&#x27;t know it.&quot;</text>
+<rect x="884" y="330" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="896" y="356" font-size="15" font-weight="bold" fill="#1f2a6b">Check when unsure</text>
+<text x="896" y="380" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Not sure it&#x27;s right.</text>
+<text x="896" y="398" font-size="12.5" font-style="italic" fill="#4a5590">Can you check it?&quot;</text>
+<rect x="1112" y="330" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="1124" y="356" font-size="15" font-weight="bold" fill="#1f2a6b">Help to learn</text>
+<text x="1124" y="380" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Can you walk me</text>
+<text x="1124" y="398" font-size="12.5" font-style="italic" fill="#4a5590">through it?&quot;</text>
+<rect x="20" y="422" width="170" height="84" rx="8" fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6"/>
+<text x="32" y="458" font-size="16" font-weight="bold" fill="#1f2a6b">Limit</text>
+<text x="32" y="480" font-size="13" fill="#4a5590">cannot do or keep up</text>
+<rect x="200" y="422" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="212" y="448" font-size="15" font-weight="bold" fill="#1f2a6b">Stated limit</text>
+<text x="212" y="472" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I can&#x27;t keep QCing.&quot;</text>
+<rect x="428" y="422" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="440" y="448" font-size="15" font-weight="bold" fill="#1f2a6b">Answered limit</text>
+<text x="440" y="472" font-size="12.5" font-style="italic" fill="#4a5590">&quot;No, I can&#x27;t get to</text>
+<text x="440" y="490" font-size="12.5" font-style="italic" fill="#4a5590">it this week.&quot;</text>
+<rect x="656" y="422" width="220" height="84" rx="8" fill="#dff2e4" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="668" y="448" font-size="15" font-weight="bold" fill="#1f2a6b">Conceded limit</text>
+<text x="668" y="472" font-size="12.5" font-style="italic" fill="#4a5590">&quot;No, I can&#x27;t keep up.&quot;</text>
+<rect x="884" y="422" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="896" y="448" font-size="15" font-weight="bold" fill="#1f2a6b">Check of partial work</text>
+<text x="896" y="472" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I can&#x27;t finish the check.</text>
+<text x="896" y="490" font-size="12.5" font-style="italic" fill="#4a5590">Can you look it over?&quot;</text>
+<rect x="1112" y="422" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="1124" y="448" font-size="15" font-weight="bold" fill="#1f2a6b">Cover request</text>
+<text x="1124" y="472" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I&#x27;m swamped. Can</text>
+<text x="1124" y="490" font-size="12.5" font-style="italic" fill="#4a5590">someone take level 3?&quot;</text>
+<rect x="20" y="514" width="170" height="84" rx="8" fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6"/>
+<text x="32" y="550" font-size="16" font-weight="bold" fill="#1f2a6b">Personal difficulty</text>
+<text x="32" y="572" font-size="13" fill="#4a5590">listed content</text>
+<rect x="200" y="514" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="212" y="540" font-size="15" font-weight="bold" fill="#1f2a6b">Personal disclosure</text>
+<text x="212" y="564" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I&#x27;m in recovery, so</text>
+<text x="212" y="582" font-size="12.5" font-style="italic" fill="#4a5590">I&#x27;ll skip the drinks.&quot;</text>
+<rect x="428" y="514" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="440" y="540" font-size="15" font-weight="bold" fill="#1f2a6b">Answered disclosure</text>
+<text x="440" y="564" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Honestly, my dad&#x27;s</text>
+<text x="440" y="582" font-size="12.5" font-style="italic" fill="#4a5590">in hospice.&quot;</text>
+<rect x="656" y="514" width="220" height="84" rx="8" fill="#eceff3" stroke="#8a93b8" stroke-width="1.2" stroke-dasharray="6 5"/>
+<text x="766.0" y="562" font-size="14" text-anchor="middle" fill="#7a82a6">Cannot occur</text>
+<rect x="884" y="514" width="220" height="84" rx="8" fill="#eceff3" stroke="#8a93b8" stroke-width="1.2" stroke-dasharray="6 5"/>
+<text x="994.0" y="562" font-size="14" text-anchor="middle" fill="#7a82a6">Rare</text>
+<rect x="1112" y="514" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="1124" y="540" font-size="15" font-weight="bold" fill="#1f2a6b">Cover for a difficulty</text>
+<text x="1124" y="564" font-size="12.5" font-style="italic" fill="#4a5590">&quot;[family detail]. Can</text>
+<text x="1124" y="582" font-size="12.5" font-style="italic" fill="#4a5590">someone cover me?&quot;</text>
+<rect x="20" y="606" width="170" height="84" rx="8" fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6"/>
+<text x="32" y="642" font-size="16" font-weight="bold" fill="#1f2a6b">Not shown</text>
+<text x="32" y="664" font-size="13" fill="#4a5590">words show no kind</text>
+<rect x="200" y="606" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="212" y="632" font-size="15" font-weight="bold" fill="#1f2a6b">Self-judgment</text>
+<text x="212" y="656" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I&#x27;m just not good</text>
+<text x="212" y="674" font-size="12.5" font-style="italic" fill="#4a5590">at this.&quot;</text>
+<rect x="428" y="606" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="440" y="632" font-size="15" font-weight="bold" fill="#1f2a6b">Answered self-judgment</text>
+<text x="440" y="656" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Honestly, I&#x27;m not</text>
+<text x="440" y="674" font-size="12.5" font-style="italic" fill="#4a5590">great at it.&quot;</text>
+<rect x="656" y="606" width="220" height="84" rx="8" fill="#dff2e4" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="668" y="632" font-size="15" font-weight="bold" fill="#1f2a6b">Conceded self-judgment</text>
+<text x="668" y="656" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Fair, it&#x27;s not</text>
+<text x="668" y="674" font-size="12.5" font-style="italic" fill="#4a5590">my strength.&quot;</text>
+<rect x="884" y="606" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="896" y="632" font-size="15" font-weight="bold" fill="#1f2a6b">Bare feedback request</text>
+<text x="896" y="656" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Can you check my math?&quot;</text>
+<rect x="1112" y="606" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
+<text x="1124" y="632" font-size="15" font-weight="bold" fill="#1f2a6b">Bare help request</text>
+<text x="1124" y="656" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Can someone help me</text>
+<text x="1124" y="674" font-size="12.5" font-style="italic" fill="#4a5590">with the takeoff?&quot;</text>
+<text x="20" y="716" font-size="13.5" fill="#4a5590">Scope (every act): Episode means one event or task. Trait means a judgment of the speaker as a person or performer. A plain Trait statement is a Level 2 candidate (T4).</text>
+<text x="20" y="738" font-size="13.5" fill="#4a5590">Conceded also records Welcomed (yes or no). Answered and Conceded also record the Prompt: the name and utterance number of the teammate&#x27;s turn.</text>
+<text x="20" y="760" font-size="13.5" fill="#4a5590">A turn that states a shortfall and then asks for help has two spans, for example Admitted gap and Help to learn. Grey cells cannot occur or are rare.</text>
+</svg>
