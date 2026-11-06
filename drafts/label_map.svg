@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" font-family="Helvetica, Arial, sans-serif">
+  <rect width="960" height="640" fill="#f5f8fc"/>
+
+  <text x="30" y="44" font-size="22" font-weight="bold" fill="#1f2a6b">How the labels fit together (new Concession definition)</text>
+  <text x="30" y="72" font-size="15" fill="#1f2a6b">Rows are kinds of shortfall: what the speaker exposes. Columns are ways of exposing it: how.</text>
+
+  <!-- Column headers -->
+  <g fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6">
+    <rect x="240" y="92" width="230" height="58" rx="8"/>
+    <rect x="480" y="92" width="230" height="58" rx="8"/>
+    <rect x="720" y="92" width="230" height="58" rx="8"/>
+  </g>
+  <g font-size="15" font-weight="bold" text-anchor="middle" fill="#1f2a6b">
+    <text x="355" y="116">The speaker states it</text>
+    <text x="595" y="116">The speaker accepts it</text>
+    <text x="835" y="116">The speaker asks for</text>
+  </g>
+  <g font-size="13.5" text-anchor="middle" fill="#4a5590">
+    <text x="355" y="137">(no challenge first)</text>
+    <text x="595" y="137">after a challenge</text>
+    <text x="835" y="137">help or a check</text>
+  </g>
+
+  <!-- Row headers -->
+  <g fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6">
+    <rect x="30" y="160" width="200" height="72" rx="8"/>
+    <rect x="30" y="238" width="200" height="72" rx="8"/>
+    <rect x="30" y="316" width="200" height="72" rx="8"/>
+    <rect x="30" y="394" width="200" height="72" rx="8"/>
+    <rect x="30" y="472" width="200" height="72" rx="8"/>
+  </g>
+  <g font-size="16" font-weight="bold" fill="#1f2a6b">
+    <text x="44" y="192">Wrong or failed</text>
+    <text x="44" y="270">Not known</text>
+    <text x="44" y="348">Cannot do</text>
+    <text x="44" y="426">Falls short in skill</text>
+    <text x="44" y="504">Personal difficulty</text>
+  </g>
+  <g font-size="13" fill="#4a5590">
+    <text x="44" y="214">(past)</text>
+    <text x="44" y="292">(now)</text>
+    <text x="44" y="370">(now or ahead)</text>
+    <text x="44" y="526">(listed content)</text>
+  </g>
+
+  <!-- Cells: fill colour shows the family -->
+  <g stroke="#1f2a6b" stroke-width="1.2">
+    <!-- column 1 -->
+    <rect x="240" y="160" width="230" height="72" rx="8" fill="#dbe8fb"/>
+    <rect x="240" y="238" width="230" height="72" rx="8" fill="#dbe8fb"/>
+    <rect x="240" y="316" width="230" height="72" rx="8" fill="#dbe8fb"/>
+    <rect x="240" y="394" width="230" height="72" rx="8" fill="#ece3f7"/>
+    <rect x="240" y="472" width="230" height="72" rx="8" fill="#ece3f7"/>
+    <!-- column 2 -->
+    <rect x="480" y="160" width="230" height="72" rx="8" fill="#dff2e4"/>
+    <rect x="480" y="238" width="230" height="72" rx="8" fill="#dff2e4"/>
+    <rect x="480" y="316" width="230" height="72" rx="8" fill="#dff2e4"/>
+    <rect x="480" y="394" width="230" height="72" rx="8" fill="#dff2e4"/>
+    <rect x="480" y="472" width="230" height="72" rx="8" fill="#ffffff" stroke-dasharray="6 5"/>
+    <!-- column 3 -->
+    <rect x="720" y="160" width="230" height="72" rx="8" fill="#fbe9d9"/>
+    <rect x="720" y="238" width="230" height="72" rx="8" fill="#fbe9d9"/>
+    <rect x="720" y="316" width="230" height="72" rx="8" fill="#fbe9d9"/>
+    <rect x="720" y="394" width="230" height="72" rx="8" fill="#fbe9d9"/>
+    <rect x="720" y="472" width="230" height="72" rx="8" fill="#fbe9d9"/>
+  </g>
+
+  <!-- Family names -->
+  <g font-size="11.5" font-weight="bold" letter-spacing="1" fill="#4a5590">
+    <text x="252" y="178">OWNING-UP</text>
+    <text x="252" y="256">OWNING-UP</text>
+    <text x="252" y="334">OWNING-UP</text>
+    <text x="252" y="412">DISCLOSURE</text>
+    <text x="252" y="490">DISCLOSURE</text>
+    <text x="492" y="178">CONCESSION</text>
+    <text x="492" y="256">CONCESSION</text>
+    <text x="492" y="334">CONCESSION</text>
+    <text x="492" y="412">CONCESSION</text>
+    <text x="732" y="178">SEEKING</text>
+    <text x="732" y="256">SEEKING</text>
+    <text x="732" y="334">SEEKING</text>
+    <text x="732" y="412">SEEKING</text>
+    <text x="732" y="490">SEEKING</text>
+  </g>
+
+  <!-- Labels -->
+  <g font-size="15" fill="#1f2a6b">
+    <text x="252" y="202">Error; Retraction</text>
+    <text x="252" y="280">Gap</text>
+    <text x="252" y="358">Limit</text>
+    <text x="252" y="436">Negative self-assessment</text>
+    <text x="252" y="514">Personal difficulty</text>
+
+    <text x="492" y="202">Welcomes correction or</text>
+    <text x="492" y="221">Accepts challenge</text>
+    <text x="492" y="280">Welcomes correction or</text>
+    <text x="492" y="299">Accepts challenge</text>
+    <text x="492" y="358">Welcomes correction or</text>
+    <text x="492" y="377">Accepts challenge</text>
+    <text x="492" y="436">Welcomes correction or</text>
+    <text x="492" y="455">Accepts challenge</text>
+    <text x="492" y="514" fill="#4a5590">No label</text>
+
+    <text x="732" y="202">Feedback</text>
+    <text x="732" y="221">(a possible error)</text>
+    <text x="732" y="280">Feedback (unsure if right);</text>
+    <text x="732" y="299">Help (advice)</text>
+    <text x="732" y="358">Help</text>
+    <text x="732" y="377">(cover or assistance)</text>
+    <text x="732" y="436">Help</text>
+    <text x="732" y="455">(coaching or support)</text>
+    <text x="732" y="514">Help (cover),</text>
+    <text x="732" y="533">as a separate span</text>
+  </g>
+
+  <!-- Notes -->
+  <g font-size="13.5" fill="#4a5590">
+    <text x="30" y="574">Concession now covers four kinds. Under the old definition, it covered only Wrong or failed.</text>
+    <text x="30" y="596">In coding, a request is its own V1 kind (Request). The right column shows what each request reveals.</text>
+    <text x="30" y="618">The kind of every act is recorded, so a Concession still shows which kind the speaker accepted.</text>
+  </g>
+</svg>

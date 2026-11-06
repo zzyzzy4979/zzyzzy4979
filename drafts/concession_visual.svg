@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="650" viewBox="0 0 960 650" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="6" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1f2a6b"/>
+    </marker>
+  </defs>
+
+  <rect width="960" height="650" fill="#f5f8fc"/>
+
+  <!-- Title, in the style of the sticky notes -->
+  <ellipse cx="150" cy="55" rx="118" ry="34" fill="none" stroke="#1f2a6b" stroke-width="2.5"/>
+  <text x="150" y="64" font-size="28" text-anchor="middle" fill="#1f2a6b">Concession</text>
+  <text x="298" y="48" font-size="18" fill="#1f2a6b">The speaker accepts a teammate's correction or challenge.</text>
+  <text x="298" y="74" font-size="17" fill="#1f2a6b">New: the shortfall can be any of four kinds, not only Wrong or failed.</text>
+
+  <!-- Concession family -->
+  <rect x="30" y="110" width="625" height="400" rx="18" fill="none" stroke="#1f2a6b" stroke-width="2.5"/>
+
+  <!-- Accepts challenge, with Welcomes correction inside -->
+  <ellipse cx="342" cy="232" rx="290" ry="102" fill="#ffffff" stroke="#1f2a6b" stroke-width="2"/>
+  <ellipse cx="205" cy="232" rx="128" ry="70" fill="#eef1fb" stroke="#1f2a6b" stroke-width="2"/>
+  <text x="205" y="222" font-size="19" text-anchor="middle" fill="#1f2a6b">Welcomes correction</text>
+  <text x="205" y="245" font-size="13.5" text-anchor="middle" fill="#4a5590">accepts + positive uptake</text>
+  <text x="205" y="266" font-size="13.5" font-style="italic" text-anchor="middle" fill="#4a5590">"Good catch, that's wrong."</text>
+  <text x="482" y="222" font-size="22" text-anchor="middle" fill="#1f2a6b">Accepts challenge</text>
+  <text x="482" y="245" font-size="13.5" text-anchor="middle" fill="#4a5590">accepts the point</text>
+  <text x="482" y="266" font-size="13.5" font-style="italic" text-anchor="middle" fill="#4a5590">"You're right, I don't."</text>
+
+  <!-- Kinds of the accepted shortfall -->
+  <text x="342" y="370" font-size="15" text-anchor="middle" fill="#1f2a6b">The accepted shortfall can be any of these kinds. Record the kind.</text>
+  <g fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6">
+    <rect x="50" y="385" width="137" height="105" rx="10"/>
+    <rect x="199" y="385" width="137" height="105" rx="10"/>
+    <rect x="348" y="385" width="137" height="105" rx="10"/>
+    <rect x="497" y="385" width="137" height="105" rx="10"/>
+  </g>
+  <g font-size="15" font-weight="bold" text-anchor="middle" fill="#1f2a6b">
+    <text x="118.5" y="412">Wrong or failed</text>
+    <text x="267.5" y="412">Not known</text>
+    <text x="416.5" y="412">Cannot do</text>
+    <text x="565.5" y="404">Falls short</text>
+    <text x="565.5" y="422">in skill</text>
+  </g>
+  <g font-size="13" font-style="italic" text-anchor="middle" fill="#4a5590">
+    <text x="118.5" y="444">"You're right, I</text>
+    <text x="118.5" y="462">had that wrong."</text>
+    <text x="267.5" y="444">"You're right,</text>
+    <text x="267.5" y="462">I don't."</text>
+    <text x="416.5" y="444">"No, I can't</text>
+    <text x="416.5" y="462">keep up."</text>
+    <text x="565.5" y="448">"Fair, it's not</text>
+    <text x="565.5" y="466">my strength."</text>
+  </g>
+
+  <!-- Arrow: a teammate raises the shortfall -->
+  <line x1="340" y1="578" x2="340" y2="520" stroke="#1f2a6b" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <text x="340" y="604" font-size="18" text-anchor="middle" fill="#1f2a6b">teammate challenges  ⟹  the speaker accepts</text>
+  <text x="340" y="628" font-size="14" text-anchor="middle" fill="#4a5590">always Prompted; the challenge is the stake evidence (Context)</text>
+
+  <!-- Neighbours: what is not a Concession -->
+  <text x="805" y="128" font-size="17" font-weight="bold" text-anchor="middle" fill="#1f2a6b">Not Concession</text>
+  <g fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6" stroke-dasharray="6 5">
+    <rect x="670" y="142" width="270" height="78" rx="10"/>
+    <rect x="670" y="232" width="270" height="78" rx="10"/>
+    <rect x="670" y="322" width="270" height="78" rx="10"/>
+    <rect x="670" y="412" width="270" height="78" rx="10"/>
+  </g>
+  <g font-size="15" fill="#1f2a6b">
+    <text x="684" y="172">A neutral question came first</text>
+    <text x="684" y="198">→ Owning-up, Prompted</text>
+    <text x="684" y="262">A bare "okay" or "got it"</text>
+    <text x="684" y="288">→ acknowledgment; no act</text>
+    <text x="684" y="344">"You're right, but it was</text>
+    <text x="684" y="364">the owner's call."</text>
+    <text x="684" y="387">→ take-back; not a Concession</text>
+    <text x="684" y="442">Dropping your own idea</text>
+    <text x="684" y="468">→ X06; no shortfall</text>
+  </g>
+
+  <!-- Note on labels -->
+  <g font-size="13" fill="#4a5590">
+    <text x="670" y="530">The labels never overlap: Welcomes</text>
+    <text x="670" y="548">correction comes first in the test order.</text>
+    <text x="670" y="566">So the inner oval is Welcomes correction,</text>
+    <text x="670" y="584">and the rest is Accepts challenge.</text>
+  </g>
+</svg>
