@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="650" viewBox="0 0 960 650" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="6" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1f2a6b"/>
+    </marker>
+  </defs>
+
+  <rect width="960" height="650" fill="#f5f8fc"/>
+
+  <!-- Title, in the style of the sticky notes -->
+  <ellipse cx="150" cy="55" rx="118" ry="34" fill="none" stroke="#1f2a6b" stroke-width="2.5"/>
+  <text x="150" y="64" font-size="28" text-anchor="middle" fill="#1f2a6b">Owning-up</text>
+  <text x="298" y="48" font-size="18" fill="#1f2a6b">The speaker states their own shortfall.</text>
+  <text x="298" y="74" font-size="18" fill="#1f2a6b">No teammate corrected or challenged it first.</text>
+
+  <!-- Owning-up family -->
+  <rect x="30" y="110" width="625" height="400" rx="18" fill="none" stroke="#1f2a6b" stroke-width="2.5"/>
+
+  <!-- Wrong or failed -->
+  <rect x="50" y="130" width="250" height="360" rx="12" fill="#ffffff" stroke="#1f2a6b" stroke-width="2"/>
+  <text x="175" y="162" font-size="19" font-weight="bold" text-anchor="middle" fill="#1f2a6b">Wrong or failed</text>
+  <text x="175" y="184" font-size="14" text-anchor="middle" fill="#4a5590">(past)</text>
+  <text x="175" y="232" font-size="30" text-anchor="middle" fill="#1f2a6b">Error</text>
+  <text x="175" y="262" font-size="14" font-style="italic" text-anchor="middle" fill="#4a5590">"I forgot to cancel today."</text>
+  <ellipse cx="175" cy="380" rx="108" ry="72" fill="#eef1fb" stroke="#1f2a6b" stroke-width="2"/>
+  <text x="175" y="368" font-size="22" text-anchor="middle" fill="#1f2a6b">Retraction</text>
+  <text x="175" y="393" font-size="13.5" text-anchor="middle" fill="#4a5590">an earlier claim to the team,</text>
+  <text x="175" y="412" font-size="13.5" text-anchor="middle" fill="#4a5590">withdrawn unprompted</text>
+
+  <!-- Not known -->
+  <rect x="315" y="130" width="160" height="360" rx="12" fill="#ffffff" stroke="#1f2a6b" stroke-width="2"/>
+  <text x="395" y="162" font-size="19" font-weight="bold" text-anchor="middle" fill="#1f2a6b">Not known</text>
+  <text x="395" y="184" font-size="14" text-anchor="middle" fill="#4a5590">(now)</text>
+  <text x="395" y="232" font-size="30" text-anchor="middle" fill="#1f2a6b">Gap</text>
+  <text x="395" y="262" font-size="14" font-style="italic" text-anchor="middle" fill="#4a5590">"Now I don't</text>
+  <text x="395" y="281" font-size="14" font-style="italic" text-anchor="middle" fill="#4a5590">remember."</text>
+
+  <!-- Cannot do -->
+  <rect x="490" y="130" width="150" height="360" rx="12" fill="#ffffff" stroke="#1f2a6b" stroke-width="2"/>
+  <text x="565" y="162" font-size="19" font-weight="bold" text-anchor="middle" fill="#1f2a6b">Cannot do</text>
+  <text x="565" y="184" font-size="14" text-anchor="middle" fill="#4a5590">(now or ahead)</text>
+  <text x="565" y="232" font-size="30" text-anchor="middle" fill="#1f2a6b">Limit</text>
+  <text x="565" y="262" font-size="14" font-style="italic" text-anchor="middle" fill="#4a5590">"I can't keep</text>
+  <text x="565" y="281" font-size="14" font-style="italic" text-anchor="middle" fill="#4a5590">QCing though."</text>
+
+  <!-- Arrow: the speaker raises the shortfall -->
+  <line x1="340" y1="578" x2="340" y2="520" stroke="#1f2a6b" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <text x="340" y="604" font-size="18" text-anchor="middle" fill="#1f2a6b">speaker  ⟹  the speaker's own shortfall</text>
+  <text x="340" y="628" font-size="14" text-anchor="middle" fill="#4a5590">volunteered, or after a neutral question</text>
+
+  <!-- Neighbours: where the other cases go -->
+  <text x="805" y="128" font-size="17" font-weight="bold" text-anchor="middle" fill="#1f2a6b">Not Owning-up</text>
+  <g fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6" stroke-dasharray="6 5">
+    <rect x="670" y="142" width="270" height="78" rx="10"/>
+    <rect x="670" y="232" width="270" height="78" rx="10"/>
+    <rect x="670" y="322" width="270" height="78" rx="10"/>
+    <rect x="670" y="412" width="270" height="78" rx="10"/>
+  </g>
+  <g font-size="15" fill="#1f2a6b">
+    <text x="684" y="172">A teammate challenged first</text>
+    <text x="684" y="198">→ Concession</text>
+    <text x="684" y="258">Falls short in skill</text>
+    <text x="684" y="281">→ Disclosure: Negative</text>
+    <text x="703" y="301">self-assessment</text>
+    <text x="684" y="352">A request for help or a check</text>
+    <text x="684" y="378">→ Seeking: Help, Feedback</text>
+    <text x="684" y="442">Personal difficulty (listed content)</text>
+    <text x="684" y="468">→ Disclosure: Personal difficulty</text>
+  </g>
+
+  <!-- Note on labels -->
+  <g font-size="13" fill="#4a5590">
+    <text x="670" y="530">The labels never overlap: Retraction</text>
+    <text x="670" y="548">comes before Error in the test order.</text>
+    <text x="670" y="566">So the oval is the Retraction label, and</text>
+    <text x="670" y="584">the rest of its box is the Error label.</text>
+  </g>
+</svg>
