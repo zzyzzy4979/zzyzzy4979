@@ -86,17 +86,19 @@
 <text x="1124" y="398" font-size="12.5" font-style="italic" fill="#4a5590">through it?&quot;</text>
 <rect x="20" y="422" width="170" height="84" rx="8" fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6"/>
 <text x="32" y="458" font-size="16" font-weight="bold" fill="#1f2a6b">Limit</text>
-<text x="32" y="480" font-size="13" fill="#4a5590">cannot do or keep up</text>
+<text x="32" y="480" font-size="13" fill="#4a5590">cannot do, or ability short</text>
 <rect x="200" y="422" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
 <text x="212" y="448" font-size="15" font-weight="bold" fill="#1f2a6b">Stated limit</text>
 <text x="212" y="472" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I can&#x27;t keep QCing.&quot;</text>
+<text x="212" y="490" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I&#x27;m just not good at this.&quot;</text>
 <rect x="428" y="422" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
 <text x="440" y="448" font-size="15" font-weight="bold" fill="#1f2a6b">Answered limit</text>
 <text x="440" y="472" font-size="12.5" font-style="italic" fill="#4a5590">&quot;No, I can&#x27;t get to</text>
 <text x="440" y="490" font-size="12.5" font-style="italic" fill="#4a5590">it this week.&quot;</text>
 <rect x="656" y="422" width="220" height="84" rx="8" fill="#dff2e4" stroke="#1f2a6b" stroke-width="1.2"/>
 <text x="668" y="448" font-size="15" font-weight="bold" fill="#1f2a6b">Conceded limit</text>
-<text x="668" y="472" font-size="12.5" font-style="italic" fill="#4a5590">&quot;No, I can&#x27;t keep up.&quot;</text>
+<text x="668" y="472" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Fair, it&#x27;s not</text>
+<text x="668" y="490" font-size="12.5" font-style="italic" fill="#4a5590">my strength.&quot;</text>
 <rect x="884" y="422" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
 <text x="896" y="448" font-size="15" font-weight="bold" fill="#1f2a6b">Check of partial work</text>
 <text x="896" y="472" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I can&#x27;t finish the check.</text>
@@ -126,19 +128,13 @@
 <text x="1124" y="582" font-size="12.5" font-style="italic" fill="#4a5590">someone cover me?&quot;</text>
 <rect x="20" y="606" width="170" height="84" rx="8" fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6"/>
 <text x="32" y="642" font-size="16" font-weight="bold" fill="#1f2a6b">Not shown</text>
-<text x="32" y="664" font-size="13" fill="#4a5590">words show no kind</text>
-<rect x="200" y="606" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
-<text x="212" y="632" font-size="15" font-weight="bold" fill="#1f2a6b">Self-judgment</text>
-<text x="212" y="656" font-size="12.5" font-style="italic" fill="#4a5590">&quot;I&#x27;m just not good</text>
-<text x="212" y="674" font-size="12.5" font-style="italic" fill="#4a5590">at this.&quot;</text>
-<rect x="428" y="606" width="220" height="84" rx="8" fill="#dbe8fb" stroke="#1f2a6b" stroke-width="1.2"/>
-<text x="440" y="632" font-size="15" font-weight="bold" fill="#1f2a6b">Answered self-judgment</text>
-<text x="440" y="656" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Honestly, I&#x27;m not</text>
-<text x="440" y="674" font-size="12.5" font-style="italic" fill="#4a5590">great at it.&quot;</text>
-<rect x="656" y="606" width="220" height="84" rx="8" fill="#dff2e4" stroke="#1f2a6b" stroke-width="1.2"/>
-<text x="668" y="632" font-size="15" font-weight="bold" fill="#1f2a6b">Conceded self-judgment</text>
-<text x="668" y="656" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Fair, it&#x27;s not</text>
-<text x="668" y="674" font-size="12.5" font-style="italic" fill="#4a5590">my strength.&quot;</text>
+<text x="32" y="664" font-size="13" fill="#4a5590">requests only</text>
+<rect x="200" y="606" width="220" height="84" rx="8" fill="#eceff3" stroke="#8a93b8" stroke-width="1.2" stroke-dasharray="6 5"/>
+<text x="310.0" y="654" font-size="14" text-anchor="middle" fill="#7a82a6">Cannot occur</text>
+<rect x="428" y="606" width="220" height="84" rx="8" fill="#eceff3" stroke="#8a93b8" stroke-width="1.2" stroke-dasharray="6 5"/>
+<text x="538.0" y="654" font-size="14" text-anchor="middle" fill="#7a82a6">Cannot occur</text>
+<rect x="656" y="606" width="220" height="84" rx="8" fill="#eceff3" stroke="#8a93b8" stroke-width="1.2" stroke-dasharray="6 5"/>
+<text x="766.0" y="654" font-size="14" text-anchor="middle" fill="#7a82a6">Cannot occur</text>
 <rect x="884" y="606" width="220" height="84" rx="8" fill="#fbe9d9" stroke="#1f2a6b" stroke-width="1.2"/>
 <text x="896" y="632" font-size="15" font-weight="bold" fill="#1f2a6b">Bare feedback request</text>
 <text x="896" y="656" font-size="12.5" font-style="italic" fill="#4a5590">&quot;Can you check my math?&quot;</text>

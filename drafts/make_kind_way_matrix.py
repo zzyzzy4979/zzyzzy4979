@@ -8,9 +8,9 @@ cols = [("Volunteered", "no targeted turn first", "#dbe8fb"),
 rows = [("Error (claim)", "a claim was wrong"),
         ("Error (work)", "work wrong or not done"),
         ("Gap", "not known now"),
-        ("Limit", "cannot do or keep up"),
+        ("Limit", "cannot do, or ability short"),
         ("Personal difficulty", "listed content"),
-        ("Not shown", "words show no kind")]
+        ("Not shown", "requests only")]
 X = "cannot"; R = "rare"
 cells = [
  [("Retraction", ['"The date I gave you', 'earlier was wrong."']),
@@ -28,18 +28,16 @@ cells = [
   ("Conceded gap", ['"You\'re right,', 'I don\'t know it."']),
   ("Check when unsure", ['"Not sure it\'s right.', 'Can you check it?"']),
   ("Help to learn", ['"Can you walk me', 'through it?"'])],
- [("Stated limit", ['"I can\'t keep QCing."']),
+ [("Stated limit", ['"I can\'t keep QCing."', '"I\'m just not good at this."']),
   ("Answered limit", ['"No, I can\'t get to', 'it this week."']),
-  ("Conceded limit", ['"No, I can\'t keep up."']),
+  ("Conceded limit", ['"Fair, it\'s not', 'my strength."']),
   ("Check of partial work", ['"I can\'t finish the check.', 'Can you look it over?"']),
   ("Cover request", ['"I\'m swamped. Can', 'someone take level 3?"'])],
  [("Personal disclosure", ['"I\'m in recovery, so', 'I\'ll skip the drinks."']),
   ("Answered disclosure", ['"Honestly, my dad\'s', 'in hospice."']),
   X, R,
   ("Cover for a difficulty", ['"[family detail]. Can', 'someone cover me?"'])],
- [("Self-judgment", ['"I\'m just not good', 'at this."']),
-  ("Answered self-judgment", ['"Honestly, I\'m not', 'great at it."']),
-  ("Conceded self-judgment", ['"Fair, it\'s not', 'my strength."']),
+ [X, X, X,
   ("Bare feedback request", ['"Can you check my math?"']),
   ("Bare help request", ['"Can someone help me', 'with the takeoff?"'])],
 ]
