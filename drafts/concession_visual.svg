@@ -11,45 +11,51 @@
   <ellipse cx="150" cy="55" rx="118" ry="34" fill="none" stroke="#1f2a6b" stroke-width="2.5"/>
   <text x="150" y="64" font-size="28" text-anchor="middle" fill="#1f2a6b">Concession</text>
   <text x="298" y="48" font-size="18" fill="#1f2a6b">The speaker accepts a teammate's correction or challenge.</text>
-  <text x="298" y="74" font-size="17" fill="#1f2a6b">New: the shortfall can be any of four kinds, not only Wrong or failed.</text>
+  <text x="298" y="74" font-size="17" fill="#1f2a6b">The label names the kind: Concession: Error, Gap, Limit or Skill.</text>
 
   <!-- Concession family -->
   <rect x="30" y="110" width="625" height="400" rx="18" fill="none" stroke="#1f2a6b" stroke-width="2.5"/>
 
-  <!-- Accepts challenge, with Welcomes correction inside -->
-  <ellipse cx="342" cy="232" rx="290" ry="102" fill="#ffffff" stroke="#1f2a6b" stroke-width="2"/>
-  <ellipse cx="205" cy="232" rx="128" ry="70" fill="#eef1fb" stroke="#1f2a6b" stroke-width="2"/>
-  <text x="205" y="222" font-size="19" text-anchor="middle" fill="#1f2a6b">Welcomes correction</text>
-  <text x="205" y="245" font-size="13.5" text-anchor="middle" fill="#4a5590">accepts + positive uptake</text>
-  <text x="205" y="266" font-size="13.5" font-style="italic" text-anchor="middle" fill="#4a5590">"Good catch, that's wrong."</text>
-  <text x="482" y="222" font-size="22" text-anchor="middle" fill="#1f2a6b">Accepts challenge</text>
-  <text x="482" y="245" font-size="13.5" text-anchor="middle" fill="#4a5590">accepts the point</text>
-  <text x="482" y="266" font-size="13.5" font-style="italic" text-anchor="middle" fill="#4a5590">"You're right, I don't."</text>
+  <!-- Uptake field: Welcomed inside Accepted -->
+  <text x="342" y="140" font-size="15" text-anchor="middle" fill="#1f2a6b">Uptake (a field, recorded for every Concession)</text>
+  <ellipse cx="342" cy="245" rx="290" ry="92" fill="#ffffff" stroke="#1f2a6b" stroke-width="2"/>
+  <ellipse cx="205" cy="245" rx="128" ry="64" fill="#eef1fb" stroke="#1f2a6b" stroke-width="2"/>
+  <text x="205" y="236" font-size="21" text-anchor="middle" fill="#1f2a6b">Welcomed</text>
+  <text x="205" y="259" font-size="13.5" text-anchor="middle" fill="#4a5590">accepts + positive uptake</text>
+  <text x="205" y="279" font-size="13.5" font-style="italic" text-anchor="middle" fill="#4a5590">"Good catch, that's wrong."</text>
+  <text x="482" y="236" font-size="22" text-anchor="middle" fill="#1f2a6b">Accepted</text>
+  <text x="482" y="259" font-size="13.5" text-anchor="middle" fill="#4a5590">accepts the point</text>
+  <text x="482" y="279" font-size="13.5" font-style="italic" text-anchor="middle" fill="#4a5590">"You're right, I don't."</text>
 
-  <!-- Kinds of the accepted shortfall -->
-  <text x="342" y="370" font-size="15" text-anchor="middle" fill="#1f2a6b">The accepted shortfall can be any of these kinds. Record the kind.</text>
+  <!-- Labels: one for each kind of the accepted shortfall -->
+  <text x="342" y="368" font-size="15" text-anchor="middle" fill="#1f2a6b">Labels: the kind of the accepted shortfall gives the label.</text>
   <g fill="#ffffff" stroke="#1f2a6b" stroke-width="1.6">
-    <rect x="50" y="385" width="137" height="105" rx="10"/>
-    <rect x="199" y="385" width="137" height="105" rx="10"/>
-    <rect x="348" y="385" width="137" height="105" rx="10"/>
-    <rect x="497" y="385" width="137" height="105" rx="10"/>
+    <rect x="50" y="383" width="137" height="107" rx="10"/>
+    <rect x="199" y="383" width="137" height="107" rx="10"/>
+    <rect x="348" y="383" width="137" height="107" rx="10"/>
+    <rect x="497" y="383" width="137" height="107" rx="10"/>
   </g>
-  <g font-size="15" font-weight="bold" text-anchor="middle" fill="#1f2a6b">
-    <text x="118.5" y="412">Wrong or failed</text>
-    <text x="267.5" y="412">Not known</text>
-    <text x="416.5" y="412">Cannot do</text>
-    <text x="565.5" y="404">Falls short</text>
-    <text x="565.5" y="422">in skill</text>
+  <g font-size="18" font-weight="bold" text-anchor="middle" fill="#1f2a6b">
+    <text x="118.5" y="409">Error</text>
+    <text x="267.5" y="409">Gap</text>
+    <text x="416.5" y="409">Limit</text>
+    <text x="565.5" y="409">Skill</text>
+  </g>
+  <g font-size="12.5" text-anchor="middle" fill="#4a5590">
+    <text x="118.5" y="427">(wrong or failed)</text>
+    <text x="267.5" y="427">(not known)</text>
+    <text x="416.5" y="427">(cannot do)</text>
+    <text x="565.5" y="427">(falls short in skill)</text>
   </g>
   <g font-size="13" font-style="italic" text-anchor="middle" fill="#4a5590">
-    <text x="118.5" y="444">"You're right, I</text>
-    <text x="118.5" y="462">had that wrong."</text>
-    <text x="267.5" y="444">"You're right,</text>
-    <text x="267.5" y="462">I don't."</text>
-    <text x="416.5" y="444">"No, I can't</text>
-    <text x="416.5" y="462">keep up."</text>
-    <text x="565.5" y="448">"Fair, it's not</text>
-    <text x="565.5" y="466">my strength."</text>
+    <text x="118.5" y="453">"You're right, I</text>
+    <text x="118.5" y="471">had that wrong."</text>
+    <text x="267.5" y="453">"You're right,</text>
+    <text x="267.5" y="471">I don't."</text>
+    <text x="416.5" y="453">"No, I can't</text>
+    <text x="416.5" y="471">keep up."</text>
+    <text x="565.5" y="453">"Fair, it's not</text>
+    <text x="565.5" y="471">my strength."</text>
   </g>
 
   <!-- Arrow: a teammate raises the shortfall -->
@@ -77,11 +83,11 @@
     <text x="684" y="468">→ X06; no shortfall</text>
   </g>
 
-  <!-- Note on labels -->
+  <!-- Note on Uptake -->
   <g font-size="13" fill="#4a5590">
-    <text x="670" y="530">The labels never overlap: Welcomes</text>
-    <text x="670" y="548">correction comes first in the test order.</text>
-    <text x="670" y="566">So the inner oval is Welcomes correction,</text>
-    <text x="670" y="584">and the rest is Accepts challenge.</text>
+    <text x="670" y="530">Uptake is a field, not a label.</text>
+    <text x="670" y="548">Welcomed sits inside Accepted,</text>
+    <text x="670" y="566">because a welcome also accepts.</text>
+    <text x="670" y="584">It replaces the two old Concession labels.</text>
   </g>
 </svg>

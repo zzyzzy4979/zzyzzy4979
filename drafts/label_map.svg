@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" font-family="Helvetica, Arial, sans-serif">
   <rect width="960" height="640" fill="#f5f8fc"/>
 
-  <text x="30" y="44" font-size="22" font-weight="bold" fill="#1f2a6b">How the labels fit together (new Concession definition)</text>
+  <text x="30" y="44" font-size="22" font-weight="bold" fill="#1f2a6b">How the labels fit together (new Concession definition and names)</text>
   <text x="30" y="72" font-size="15" fill="#1f2a6b">Rows are kinds of shortfall: what the speaker exposes. Columns are ways of exposing it: how.</text>
 
   <!-- Column headers -->
@@ -91,14 +91,14 @@
     <text x="252" y="436">Negative self-assessment</text>
     <text x="252" y="514">Personal difficulty</text>
 
-    <text x="492" y="202">Welcomes correction or</text>
-    <text x="492" y="221">Accepts challenge</text>
-    <text x="492" y="280">Welcomes correction or</text>
-    <text x="492" y="299">Accepts challenge</text>
-    <text x="492" y="358">Welcomes correction or</text>
-    <text x="492" y="377">Accepts challenge</text>
-    <text x="492" y="436">Welcomes correction or</text>
-    <text x="492" y="455">Accepts challenge</text>
+    <text x="492" y="202">Error</text>
+    <text x="492" y="221" font-size="13" font-style="italic" fill="#4a5590">"You're right, I had that wrong."</text>
+    <text x="492" y="280">Gap</text>
+    <text x="492" y="299" font-size="13" font-style="italic" fill="#4a5590">"You're right, I don't."</text>
+    <text x="492" y="358">Limit</text>
+    <text x="492" y="377" font-size="13" font-style="italic" fill="#4a5590">"No, I can't keep up."</text>
+    <text x="492" y="436">Skill</text>
+    <text x="492" y="455" font-size="13" font-style="italic" fill="#4a5590">"Fair, it's not my strength."</text>
     <text x="492" y="514" fill="#4a5590">No label</text>
 
     <text x="732" y="202">Feedback</text>
@@ -115,8 +115,8 @@
 
   <!-- Notes -->
   <g font-size="13.5" fill="#4a5590">
-    <text x="30" y="574">Concession now covers four kinds. Under the old definition, it covered only Wrong or failed.</text>
-    <text x="30" y="596">In coding, a request is its own V1 kind (Request). The right column shows what each request reveals.</text>
-    <text x="30" y="618">The kind of every act is recorded, so a Concession still shows which kind the speaker accepted.</text>
+    <text x="30" y="574">Each label is Family: Kind. For example, Owning-up: Gap and Concession: Gap are the same kind, exposed in two ways.</text>
+    <text x="30" y="596">Uptake (Welcomed or Accepted) is a field that every Concession records. It replaces the two old Concession labels.</text>
+    <text x="30" y="618">In coding, a request is its own V1 kind (Request). The right column shows what each request reveals.</text>
   </g>
 </svg>
